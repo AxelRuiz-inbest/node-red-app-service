@@ -61,4 +61,4 @@ jobs:
           app-name: 'appservice-nodered-qa-001'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB3DB12EA37940D284C2FD16D37BC123 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_21331904246A4DE08240BCE74D8AD154 }}
